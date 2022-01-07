@@ -1,0 +1,21 @@
+name: 4PT Repo
+PS4-Xplorer:
+  pkgPath: pkg/LAPY20001.pkg
+  iconPath: icon/icon0_explorer.png
+  type: TOOL
+  version: 1.33
+Homebrew Store:
+  pkgPath: pkg/Store-R2.pkg
+  iconPath: icon/icon0_store.png
+  type: App
+  version: R2
+Patch Installer:
+  pkgPath: pkg/PATCHINSTA000000.pkg
+  iconPath: icon/icon0_patcher.png
+  type: TOOL
+  version: R2
+Remote Package Installer:
+  pkgPath: pkg/remote_package_installer.pkg
+  iconPath: icon/icon0_rpi.png
+  type: TOOL
+  version: 1.00
