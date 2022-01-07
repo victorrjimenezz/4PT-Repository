@@ -46,14 +46,14 @@ repository. ***(DISCLAMER: YML IS TAB SENSITIVE, SO BE SURE TO WRITE EVERYTHING 
 
 <div id="repoName"></div>
 
-###Repository Name (Necessary)
+### Repository Name (Necessary)
 To set the repository name, change the field: </br>
 `name: 4PT Repo` </br>
 to whatever name you want to set.
 
 <div id="repoIcon"></div>
 
-###Repository Icon (Optional)
+### Repository Icon (Optional)
 To set a repository icon, the image has to be a: </br>
 PNG, JPEG, JPG, TGA, BMP OR NON-ANIMATED ***(FOR NOW)*** GIF </br>
 Has to be named icon and placed in the root folder of the repository.
@@ -62,7 +62,7 @@ If a valid icon is not found, the program will switch to the default repository 
 
 <div id="pkg"></div>
 
-###Adding Packages
+### Adding Packages
 To add a package, the following block of text is required
 ```
 PACKAGE_NAME:
