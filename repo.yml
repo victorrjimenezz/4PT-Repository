@@ -1,4 +1,5 @@
 name: 4PT Repo
+iconPath: icon.png
 PS4-Xplorer:
   pkgPath: pkg/LAPY20001.pkg
   iconPath: icon/icon0_explorer.png
