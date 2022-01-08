@@ -54,9 +54,10 @@ to whatever name you want to set.
 <div id="repoIcon"></div>
 
 ### Repository Icon (Optional)
-To set the repository name, change the field: </br>
+To set the repository icon, change the field: </br>
 `iconPath: icon.png` </br>
 to the desired icon path.
+
 The image has to be a: </br>
 PNG, JPEG, JPG, TGA, BMP OR NON-ANIMATED ***(FOR NOW)*** GIF </br>
 
