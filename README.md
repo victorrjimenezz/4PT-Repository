@@ -42,7 +42,7 @@ This template includes 4 Homebrew Apps: </br>
 
 ## Usage
 The repository information is stored in a file called repo.yml, located in the root folder of the 
-repository. ***(DISCLAMER: YML IS TAB SENSITIVE, SO BE SURE TO WRITE EVERYTHING AS DESCRIBED)***
+repository. ***(DISCLAMER: YML IS TAB AND LINE BREAK SENSITIVE, SO BE SURE TO WRITE EVERYTHING AS DESCRIBED)***
 
 <div id="repoName"></div>
 
