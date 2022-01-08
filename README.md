@@ -57,6 +57,10 @@ to whatever name you want to set.
 To set a repository icon, the image has to be a: </br>
 PNG, JPEG, JPG, TGA, BMP OR NON-ANIMATED ***(FOR NOW)*** GIF </br>
 Has to be named icon and placed in the root folder of the repository.
+</br>
+
+***(NOTE: THE ICON CAN BE ANY SIZE AND SHAPE, BUT IT IS RECOMMENDED THAT IT IS
+A SQUARE IMAGE)***
 
 If a valid icon is not found, the program will switch to the default repository icon.
 
