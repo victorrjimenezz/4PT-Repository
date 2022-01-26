@@ -3,8 +3,8 @@
 <h1 align="center">4PT Repository</h1>
 
 <div align="center">
-  <img src="screenshot.png" alt="Logo">
-  <img src="screenshot2.png" alt="Logo">
+  <img src="screenshots/screenshot0.png" alt="Logo">
+  <img src="screenshots/screenshot1.png" alt="Logo">
 </div>
 
 
@@ -64,7 +64,7 @@ PNG, JPEG, JPG, TGA, BMP OR NON-ANIMATED ***(FOR NOW)*** GIF </br>
 ***(NOTE: THE ICON CAN BE ANY SIZE AND SHAPE, BUT IT IS RECOMMENDED THAT IT IS
 A SQUARE IMAGE)***
 
-If a valid icon is not found, the program will switch to the default repository icon.
+If a valid icon is not found, 4PT will switch to the default repository icon.
 
 <div id="pkg"></div>
 
@@ -73,10 +73,9 @@ To add a package, the following block of text is required
 ```
 PACKAGE_NAME:
   pkgPath: PACKAGE_PATH
-  iconPath: PACKAGE_ICON_PATH
   type: PACKAGE_TYPE
-  version: PACKAGE_VERSION
 ```
+
 where each parameter should be replaced by the desired parameter. </br></br>
 ```PACKAGE_TYPE``` should be replaced by:
 - *GAME*
@@ -92,6 +91,5 @@ If ```PACKAGE_TYPE``` is none of the above, app reads it as *MISC*
 ***
 NOTES: </br>
 - Package names CAN be repeated </br>
-- If the Package icon is not set or is not valid, a default icon will be set according to the package type. 
 - Make a line break at the end of the text block.
 ***
