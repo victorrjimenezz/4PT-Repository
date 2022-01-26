@@ -29,7 +29,7 @@
 
 ## What is this?
 
-This is a template for a repository for the <a href="https://github.com/victorrjimenezz/PS4-4PT">4PT PS4 package manager</a>.</br>
+This is a template for a repository for the <a href="https://github.com/victorrjimenezz/PS4-4PT">4PT: PS4 APT</a>.</br>
 This template includes 4 Homebrew Apps: </br>
 * PS4-Xplorer (By <a href="https://twitter.com/lapy05575948">@lapy05575948</a>)
 * Homebrew Store (By <a href="https://twitter.com/lightningmods_">@lightningmods_</a>)
