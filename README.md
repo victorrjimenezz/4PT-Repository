@@ -16,6 +16,7 @@
     <li>
       <a href="#wit">What is this?</a>
     </li>
+    <li><a href="#server">Hosting</a></li>
     <li><a href="#usage">Usage</a>
     <ul>
     <li><a href="#repoName">Repository Name</a></li>
@@ -38,6 +39,29 @@ This template includes 4 Homebrew Apps: </br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ******
+
+<div id="server"></div>
+
+## Hosting
+
+**If you would like to host a smaller, local, repository:** </br>
+
+You can host it in your own computer by using an apache webserver like [Xampp](https://www.apachefriends.org/de/index.html), which is easy for
+non experts, and is available on Windows, MacOS, and Linux. </br>
+
+Another option is to:
+- On Linux: Use your APT to install apache2
+- On Macos: Use homebrew to install httpd
+
+Then drop the files in the corresponding server folder.
+
+**If you would like to host a repository available to everyone, online 24/7:** </br>
+
+It is recommended that you find a hosting provider (like 1&1 or GoDaddy) and upload the server files there.
+
+
+******
+
 <div id="usage"></div>
 
 ## Usage
