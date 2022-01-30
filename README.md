@@ -16,6 +16,7 @@
     <li>
       <a href="#wit">What is this?</a>
     </li>
+    <li><a href="#providers">Cloning from Providers</a></li>
     <li><a href="#server">Hosting</a></li>
     <li><a href="#usage">Usage</a>
     <ul>
@@ -37,6 +38,18 @@ This template includes 4 Homebrew Apps: </br>
 * PS4 Patch Installer (By <a href="https://twitter.com/0x199">@0x199</a>)
 * Remote Package Installer (By <a href="https://twitter.com/flat_z">@flat_z</a>)
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+******
+
+<div id="providers"></div>
+
+## Cloning from another server, Google Drive, or other providers
+
+**If you would like to clone the repository files from another server,  Google Drive, or other providers like 1Fitcher:** </br>
+
+You can use [rclone](https://rclone.org) to clone the files to the desired machine. </br>
+Here is an example tutorial on [How to clone a Google drive on Ubuntu using rclone](https://m.youtube.com/watch?v=f8K-V3HHDA0)
 
 ******
 
