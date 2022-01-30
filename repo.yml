@@ -10,5 +10,5 @@ Patch Installer:
   pkgPath: pkg/PATCHINSTA000000.pkg
   type: TOOL
 Remote Package Installer:
-  pkgPath: pkg/remote_package_installer.pkg
+  pkgPath: pkg/rpi.pkg
   type: TOOL

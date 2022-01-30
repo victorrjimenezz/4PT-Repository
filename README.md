@@ -90,6 +90,8 @@ If ```PACKAGE_TYPE``` is none of the above, app reads it as *MISC*
 
 ***
 NOTES: </br>
-- Package names CAN be repeated </br>
+
+- Do not include spaces in the ```PACKAGE_PATH```</br>
+- Package names CAN be repeated. </br>
 - Make a line break at the end of the text block.
 ***
