@@ -2,11 +2,25 @@
 
 <h1 align="center">4PT Repository</h1>
 
+  <p align="center">
+    <br />
+    <a href="https://github.com/victorrjimenezz/4PT-Repository/issues"><strong>Request Feature / Report Bug</strong></a>
+    <br />
+    <br />
+    <a href="https://www.4pt-project.com">Website</a>
+    .
+    <a href="https://github.com/victorrjimenezz/PS4-4PT">The 4PT APP</a>
+    ·
+    <a href="https://github.com/victorrjimenezz/4PT-Repository">4PT Template Repository</a>
+    ·
+    <a href="https://github.com/victorrjimenezz/4PT-REPO-GUI">4PT Repository GUI</a>
+  </p>
+</div>
+
 <div align="center">
   <img src="screenshots/screenshot0.png" alt="Logo">
   <img src="screenshots/screenshot1.png" alt="Logo">
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -16,6 +30,7 @@
     <li>
       <a href="#wit">What is this?</a>
     </li>
+    <li><a href="#gui">Creating a repository with the 4PT GUI</a></li>
     <li><a href="#providers">Cloning from Providers</a></li>
     <li><a href="#server">Hosting</a></li>
     <li><a href="#usage">Usage</a>
@@ -39,6 +54,14 @@ This template includes 4 Homebrew Apps: </br>
 * Remote Package Installer (By <a href="https://twitter.com/flat_z">@flat_z</a>)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+******
+
+<div id="gui"></div>
+
+## Creating a repository with the 4PT GUI
+
+If you would like to create your own repository, we recommend checking the [4PT Repo GUI](https://github.com/victorrjimenezz/4PT-REPO-GUI)
+app. It's a graphical interface that enables users to easily create a repository, and even host it with a bundled http server.
 
 ******
 
@@ -59,14 +82,9 @@ Here is an example tutorial on [How to clone a Google drive on Ubuntu using rclo
 
 **If you would like to host a smaller, local, repository:** </br>
 
-You can host it in your own computer by using an apache webserver like [Xampp](https://www.apachefriends.org/de/index.html), which is easy for
-non experts, and is available on Windows, MacOS, and Linux. </br>
-
-Another option is to:
-- On Linux: Use your APT to install apache2
-- On Macos: Use homebrew to install httpd
-
-Then drop the files in the corresponding server folder.
+We recommend you check our [4PT Repo GUI](https://github.com/victorrjimenezz/4PT-REPO-GUI), this tool allows you
+to create a repository, export it to a folder or zip file, and even host it with a bundled http server. No need to install
+a full fledged APACHE server.
 
 **If you would like to host a repository available to everyone, online 24/7:** </br>
 
