@@ -114,7 +114,7 @@ To set the repository icon, change the field: </br>
 to the desired icon path.
 
 The image has to be a: </br>
-PNG, JPEG, JPG, TGA, BMP OR NON-ANIMATED ***(FOR NOW)*** GIF </br>
+PNG, JPEG, JPG, TGA, BMP OR GIF (Animated GIFs are supported) </br>
 
 ***(NOTE: THE ICON CAN BE ANY SIZE AND SHAPE, BUT IT IS RECOMMENDED THAT IT IS
 A SQUARE IMAGE)***
