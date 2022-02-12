@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/victorrjimenezz/4PT-REPO-GUI">4PT Repository GUI</a>
   </p>
-</div>
+
 
 <div align="center">
   <img src="screenshots/screenshot0.png" alt="Logo">
@@ -62,6 +62,12 @@ This template includes 4 Homebrew Apps: </br>
 
 If you would like to create your own repository, we recommend checking the [4PT Repo GUI](https://github.com/victorrjimenezz/4PT-REPO-GUI)
 app. It's a graphical interface that enables users to easily create a repository, and even host it with a bundled http server.
+
+******
+
+## Testing this repository template
+
+This repository template is available for testing at the URL https://victorrjimenezz.github.io/4PT-Repository/
 
 ******
 
